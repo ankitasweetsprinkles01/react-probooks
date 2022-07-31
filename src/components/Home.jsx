@@ -39,7 +39,7 @@ export default class Home extends Component {
                     <div className="read">
                         {
                             (this.state.books.filter((book) => { return book.type === "read" }).length === 0) ?
-                                "No books reading"
+                                "No books read"
                                 :
                                 this.state.books.filter((book) => {
                                     return book.type === "read"

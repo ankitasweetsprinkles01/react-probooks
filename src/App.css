@@ -34,7 +34,7 @@ header {
   border-radius: 50%;
   width: 3vw;
   height: 6vh;
-  color: #04be04;
+  color: red;
   background: #04be04;
   outline: none;
   border: none;
@@ -87,7 +87,7 @@ header {
 .search-btn {
   height: 8vh;
   width: 4vw;
-  background: green;
+  background: purple;
   position: fixed;
   bottom: 3vh;
   text-decoration: none;
