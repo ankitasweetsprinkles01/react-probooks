@@ -5,7 +5,7 @@
 }
 
 header {
-  background: #297b31;
+  background: orange;
   height: 10vh;
   color: aliceblue;
   display: flex;
@@ -34,8 +34,8 @@ header {
   border-radius: 50%;
   width: 3vw;
   height: 6vh;
-  color: red;
-  background: #04be04;
+  color: #fff;
+  background: purple;
   outline: none;
   border: none;
   top: 13vh;
